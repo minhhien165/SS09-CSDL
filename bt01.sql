@@ -33,7 +33,7 @@ select * from view_high_salary_employees;
 
 -- 4,
 insert into employees(name, department, salary, manager_id)
-	values('Đoan', 'HR', '9000', 2);
+	values('Hien', 'HR', '9000', 2);
     
 select * from view_high_salary_employees;
 
